@@ -1,14 +1,25 @@
-//
-//  SpaceAdventure.swift
-//  SpaceAdventure
-//
-//  Created by Marla Brizel on 7/10/15.
-//  Copyright (c) 2015 Your School. All rights reserved.
-//
 
 import Foundation
 
 class SpaceAdventure {
+    
+    let planetarySystem: PlanetarySystem
+    
+    init () {
+        //goal: create a dictionary: 
+        // let planetData = [
+        //      "Mercury" : "A hot planet",
+        //      "Venus" : "It's very cloudy"
+        //  ]
+        
+        let mercury = Planet(name: "Mercury", description: "A hot planet")
+        let venus = Planet(name: "Venus", description: "It's very cloudy")
+        let earth = Planet(name: "Earth", description: "Home base")
+        
+        let planets = [ mercury, venus ]
+        
+        planetarySystem = PlanetarySystem(name: "Solar System", planets: planets)
+    }
     
     func start() {
         displayIntroduction()
