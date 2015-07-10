@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9A690BC5-F7AF-4ED8-8000-1DB001E64FD7</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SpaceAdventure</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>716BA2CC0F21367EB4210D1F335E710EC2190EAB</key>
+		<string>github.com:SwiftEducation/SpaceAdventure.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SpaceAdventure.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>716BA2CC0F21367EB4210D1F335E710EC2190EAB</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:SwiftEducation/SpaceAdventure.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>716BA2CC0F21367EB4210D1F335E710EC2190EAB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>716BA2CC0F21367EB4210D1F335E710EC2190EAB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SpaceAdventure</string>
+		</dict>
+	</array>
+</dict>
+</plist>
